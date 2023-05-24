@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Onest';
+  src: url('./fonts/OnestMedium.ttf');
+}
+@font-face {
+  font-family: 'Onest Bold';
+  src: url('./fonts/OnestExtraBold.ttf');
+}
+@font-face {
+  font-family: 'Onest Light';
+  src: url('./fonts/OnestThin.ttf');
+}
+
+:root {
+  --font: 'Onest Bold'
+}
